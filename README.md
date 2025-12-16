@@ -6,15 +6,17 @@ The projects reflect industry-style, client-inspired scenarios and cover front-e
 
 ---
 
-## 🛠️ Tech Stack & Practices
+## 🛠️ Compiled Tech Stack & Practices
 
-- **Frontend:** React, Vite, CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB
-- **APIs:** RESTful APIs, external API integration
-- **Testing:** Jest, Supertest
-- **DevOps:** Docker, containerisation, environment configuration
-- **Practices:** Agile (Scrum), TDD, refactoring, clean code principles
+Here's a consolidated view of all technologies and practices used across Missions 0–5:
+
+- **Frontend:** HTML, CSS, JavaScript, React, Vite, CSS Modules  
+- **Backend:** Node.js, Express.js, Azure Custom Vision, Google Gemini API  
+- **Databases / ORM:** MongoDB, Mongoose 
+- **APIs:** RESTful APIs, external API integration  
+- **Testing:** Jest, Supertest  
+- **DevOps / Deployment:** Docker, docker-compose, environment configuration  
+- **Practices:** Agile (Scrum), TDD, refactoring, clean code principles  
 - **Tools:** Git, GitHub, Postman
 
 ---
@@ -25,7 +27,7 @@ The projects reflect industry-style, client-inspired scenarios and cover front-e
 **Technologies:** HTML, CSS, JavaScript  
 Built foundational web interfaces and reinforced core JavaScript concepts.
 
-📂 Folder: `mission-0-foundations`
+📂 Folder: [`mission-0-foundations`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-0-foundations/README.md) 
 
 ---
 
@@ -33,7 +35,7 @@ Built foundational web interfaces and reinforced core JavaScript concepts.
 **Technologies:** React, Node.js, Express, Azure Custom Vision  
 Built a full stack application that allows users to upload images and receive classification results using a cloud-based AI service.
 
-📂 Folder: `mission-1-ai-image-classifier`
+📂 Folder: [`mission-1-ai-image-classifier`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-1-ai-image-classifier/README.md)
 
 ---
 
@@ -41,7 +43,7 @@ Built a full stack application that allows users to upload images and receive cl
 **Technologies:** Node.js, Express, Jest, Supertest  
 Focused on backend API development and automated testing, with an emphasis on reliability and test coverage.
 
-📂 Folder: `mission-2-api-testing`
+📂 Folder: [`mission-2-api-testing`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-2-api-testing/README.md)
 
 ---
 
@@ -49,7 +51,7 @@ Focused on backend API development and automated testing, with an emphasis on re
 **Technologies:** React, Node.js, Express, Gemini API  
 Developed a client-server application that integrates generative AI, including backend API setup and secure request handling.
 
-📂 Folder: `mission-3-ai-chat-api`
+📂 Folder: [`mission-3-ai-chat-api`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-3-ai-chat-api/README.md)
 
 ---
 
@@ -57,7 +59,7 @@ Developed a client-server application that integrates generative AI, including b
 **Technologies:** React, Node.js, Express, Docker, Docker Compose  
 Built and containerised a full stack application, running the client and server locally using Docker.
 
-📂 Folder: `mission-4-dockerised-fullstack-app`
+📂 Folder: [`mission-4-dockerised-fullstack-app`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-4-dockerised-fullstack-app/README.md)
 
 ---
 
@@ -65,7 +67,7 @@ Built and containerised a full stack application, running the client and server 
 **Technologies:** Node.js, Express, MongoDB, Jest, Supertest  
 Developed backend services and supporting CLI tooling, focusing on API design, data persistence, and automated testing.
 
-📂 Folder: `mission-5-part-1-backend-cli`
+📂 Folder: [`mission-5-part-1-backend-cli`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-5-part-1-backend-cli/README.md)
 
 ---
 
@@ -73,7 +75,7 @@ Developed backend services and supporting CLI tooling, focusing on API design, d
 **Technologies:** React, Vite, Node.js, Express, MongoDB  
 Collaborated in a team to build a full stack web application, contributing to backend APIs, database tooling, and front-end features.
 
-📂 Folder: `mission-5-part-2-fullstack-app`
+📂 Folder: [`mission-5-part-2-fullstack-app`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-5-part-2-fullstack-app/README.md)
 
 ---
 
