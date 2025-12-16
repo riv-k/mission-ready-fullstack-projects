@@ -27,6 +27,7 @@ Here's a consolidated view of all technologies and practices used across Mission
 **Technologies:** HTML, CSS, JavaScript  
 Built foundational web interfaces and reinforced core JavaScript concepts.
 
+📂 Original Repo: [Mission 0 →](https://github.com/riv-k/Mission0)
 📂 Folder: [`mission-0-foundations`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-0-foundations/README.md) 
 
 ---
@@ -35,6 +36,7 @@ Built foundational web interfaces and reinforced core JavaScript concepts.
 **Technologies:** React, Node.js, Express, Azure Custom Vision  
 Built a full stack application that allows users to upload images and receive classification results using a cloud-based AI service.
 
+📂 Original Repo: [Mission 1 →](https://github.com/riv-k/Mission1)
 📂 Folder: [`mission-1-ai-image-classifier`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-1-ai-image-classifier/README.md)
 
 ---
@@ -43,6 +45,7 @@ Built a full stack application that allows users to upload images and receive cl
 **Technologies:** Node.js, Express, Jest, Supertest  
 Focused on backend API development and automated testing, with an emphasis on reliability and test coverage.
 
+📂 Original Repo: [Mission 2 →](https://github.com/riv-k/Mission2)
 📂 Folder: [`mission-2-api-testing`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-2-api-testing/README.md)
 
 ---
@@ -51,6 +54,7 @@ Focused on backend API development and automated testing, with an emphasis on re
 **Technologies:** React, Node.js, Express, Gemini API  
 Developed a client-server application that integrates generative AI, including backend API setup and secure request handling.
 
+📂 Original Repo: [Mission 3 →](https://github.com/riv-k/Mission3)
 📂 Folder: [`mission-3-ai-chat-api`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-3-ai-chat-api/README.md)
 
 ---
@@ -59,6 +63,7 @@ Developed a client-server application that integrates generative AI, including b
 **Technologies:** React, Node.js, Express, Docker, Docker Compose  
 Built and containerised a full stack application, running the client and server locally using Docker.
 
+📂 Original Repo: [Mission 4 →](https://github.com/riv-k/Mission4)
 📂 Folder: [`mission-4-dockerised-fullstack-app`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-4-dockerised-fullstack-app/README.md)
 
 ---
@@ -67,6 +72,7 @@ Built and containerised a full stack application, running the client and server 
 **Technologies:** Node.js, Express, MongoDB, Jest, Supertest  
 Developed backend services and supporting CLI tooling, focusing on API design, data persistence, and automated testing.
 
+📂 Original Repo: [Mission 5 Part 1 →](https://github.com/riv-k/Mission5-P1)
 📂 Folder: [`mission-5-part-1-backend-cli`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-5-part-1-backend-cli/README.md)
 
 ---
@@ -75,6 +81,7 @@ Developed backend services and supporting CLI tooling, focusing on API design, d
 **Technologies:** React, Vite, Node.js, Express, MongoDB  
 Collaborated in a team to build a full stack web application, contributing to backend APIs, database tooling, and front-end features.
 
+📂 Original Repo: [Mission 5 Part 2 →](https://github.com/Arjan269/Mission-5-P2)
 📂 Folder: [`mission-5-part-2-fullstack-app`](https://github.com/riv-k/mission-ready-fullstack-projects/blob/main/mission-5-part-2-fullstack-app/README.md)
 
 ---

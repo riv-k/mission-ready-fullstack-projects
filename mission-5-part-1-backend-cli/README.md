@@ -2,7 +2,7 @@
 
 **Project Type:** Individual Project
 
-**Repo Link:** [Mission 5 Part 1 on GitHub] (https://github.com/riv-k/Mission5-P1)
+**Repo Link:** [Mission 5 Part 1 →] (https://github.com/riv-k/Mission5-P1)
 
 ## Overview
 Developed a backend application with database integration, automated testing, and custom CLI utilities.

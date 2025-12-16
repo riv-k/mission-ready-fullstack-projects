@@ -2,7 +2,7 @@
 
 **Project Type:** Individual Project
 
-**Repo Link:** [Mission 4 on GitHub] (https://github.com/riv-k/Mission4)
+**Repo Link:** [Mission 4 →] (https://github.com/riv-k/Mission4)
 
 ## Overview
 Containerised a full stack application to run consistently across environments using Docker and Docker Compose.
