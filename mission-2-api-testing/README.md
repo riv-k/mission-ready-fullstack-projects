@@ -2,6 +2,8 @@
 
 **Project Type:** Team Project
 
+**Repo Link:** [Mission 2 on GitHub] (https://github.com/riv-k/Mission2)
+
 ## Overview
 Focused on building and testing REST APIs, with an emphasis on automated testing and reliability.
 

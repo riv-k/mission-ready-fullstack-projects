@@ -2,6 +2,8 @@
 
 **Project Type:** Team Project
 
+**Repo Link:** [Mission Part 2 on GitHub] (https://github.com/Arjan269/Mission-5-P2)
+
 ## Overview
 Built a complete full stack web application as part of a team, covering frontend features, backend APIs, and database integration.
 

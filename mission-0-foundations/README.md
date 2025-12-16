@@ -2,6 +2,8 @@
 
 **Project Type:** Individual Project
 
+**Repo Link:** [Mission 0 on GitHub] (https://github.com/riv-k/Mission0)
+
 ## Overview
 Built foundational web projects to reinforce core HTML, CSS, and JavaScript concepts. Focused on layout, styling, DOM manipulation, and basic interactivity.
 

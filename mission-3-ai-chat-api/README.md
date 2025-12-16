@@ -2,6 +2,8 @@
 
 **Project Type:** Team Project
 
+**Repo Link:** [Mission 3 on GitHub] (https://github.com/riv-k/Mission3)
+
 ## Overview
 Built a full stack application that integrates a generative AI service, allowing users to interact with an AI-powered backend through a React interface.
 
