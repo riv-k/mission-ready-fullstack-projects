@@ -2,7 +2,7 @@
 
 **Project Type:** Individual Project
 
-**Repo Link:** [Mission 1 →] (https://github.com/riv-k/Mission1)
+**Repo Link:** [Mission 1] (https://github.com/riv-k/Mission1)
 
 ## Overview
 Developed a full stack application that allows users to upload an image and receive classification results using a cloud-based AI service.
